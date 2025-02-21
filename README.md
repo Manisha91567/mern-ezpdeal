@@ -1,6 +1,6 @@
 # MERN EZPDeal (PostgreSQL Edition)
 
-MERN EZPDeal is a full-stack application built with the MERN stack (React, Node.js, and Express) that uses PostgreSQL as the database. The project demonstrates secure session management with Redis, OTP-based user verification via Twilio, and several production-grade security measures.
+MERN EZPDeal is a full-stack application using React, Node.js, Express, and PostgreSQL, featuring secure session management with Redis, OTP-based authentication via Twilio, role-based access control, and production-grade security, with Axios for API integration, Redux Toolkit for state management, and React Router for navigation.
 
 ## Table of Contents
 
