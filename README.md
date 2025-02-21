@@ -14,6 +14,7 @@ MERN EZPDeal is a full-stack application using React, Node.js, Express, and Post
 - [Running the Project](#running-the-project)
   - [Development Mode](#development-mode)
   - [Production Build](#production-build)
+- [Postman Link](#postman-link)
 
 ## Features
 
@@ -194,3 +195,7 @@ Before setting up the project, ensure you have the following installed:
 3. **Start the Production Server**
     
     Ensure NODE_ENV is set to production and start your backend server.
+
+## Postman Link: 
+
+   https://documenter.getpostman.com/view/20622665/2sAYdbPD6M
